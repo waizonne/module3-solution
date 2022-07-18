@@ -1,0 +1,15 @@
+.section {
+    clear: margin;
+    position: relative;
+    color: black;
+    background-color: #999999;
+    padding: 10px;
+    font-size: 100%;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+#nav-list > li {
+    text-align: center;
+}
